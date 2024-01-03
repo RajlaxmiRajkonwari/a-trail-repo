@@ -1,2 +1,2 @@
 # a-trail-repo
-this is nothing but simply a tail repo
+this is nothing but simply a trail repo
